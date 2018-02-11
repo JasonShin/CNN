@@ -1,2 +1,4 @@
 data
 .idea
+training_data.npy
+catdogdata
